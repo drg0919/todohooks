@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/todo/static/css/main.2cce8147.chunk.css",
+    "main.js": "/todo/static/js/main.6b928ebd.chunk.js",
+    "main.js.map": "/todo/static/js/main.6b928ebd.chunk.js.map",
+    "runtime~main.js": "/todo/static/js/runtime~main.7a2dc5ec.js",
+    "runtime~main.js.map": "/todo/static/js/runtime~main.7a2dc5ec.js.map",
+    "static/css/2.37afb15d.chunk.css": "/todo/static/css/2.37afb15d.chunk.css",
+    "static/js/2.5aa4d6ce.chunk.js": "/todo/static/js/2.5aa4d6ce.chunk.js",
+    "static/js/2.5aa4d6ce.chunk.js.map": "/todo/static/js/2.5aa4d6ce.chunk.js.map",
+    "index.html": "/todo/index.html",
+    "precache-manifest.7e685820ba6fd2b1b81d02cfef2cf1e1.js": "/todo/precache-manifest.7e685820ba6fd2b1b81d02cfef2cf1e1.js",
+    "service-worker.js": "/todo/service-worker.js",
+    "static/css/2.37afb15d.chunk.css.map": "/todo/static/css/2.37afb15d.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/todo/static/css/main.2cce8147.chunk.css.map",
+    "static/media/blueprint-icons.css": "/todo/static/media/icons-20.ca7934b3.eot"
+  }
+}
